@@ -1,0 +1,15 @@
+
+.sub {
+    flex: 1 0 85%;
+    height: inherit;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+#my-won-bids {
+    margin: auto;
+    text-align: left;
+}
+#my-won-bids .section {
+    display: flex;
+    justify-content: space-around;
+}
